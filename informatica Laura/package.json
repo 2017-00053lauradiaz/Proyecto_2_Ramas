@@ -1,0 +1,16 @@
+{
+  "name": "laura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laura",
+    "index",
+    "html"
+  ],
+  "author": "Laura Diaz",
+  "license": "ISC"
+}
